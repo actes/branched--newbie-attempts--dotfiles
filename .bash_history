@@ -195,3 +195,18 @@ git show
 git status 
 git commit  -a -m 'hist' ;  
 git push -u origin vd182
+git add .config/fish/fish_history
+history 
+git show
+history 
+git status 
+git commit  -a -m 'hist' ;  
+git show
+git status 
+git push -u origin vd182
+git add .gitconfig
+history 
+echo git commit  -a -m 'hist' ;git push -u origin vd182
+git commit  -a -m 'hist' ;  
+git push -u origin vd182
+history -a #----

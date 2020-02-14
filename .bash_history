@@ -256,3 +256,9 @@ history -a
 tail .bash_history
 echo test rsync
 history -a
+history 
+history |less
+git commit  -a -m 'hist' ;  
+git push # -u origin xu1832
+history -a #----
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832

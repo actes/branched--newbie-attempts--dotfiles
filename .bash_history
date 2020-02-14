@@ -1,6 +1,42 @@
+#edited
+history -a #=========================
+vmstat 1
+ls /var/cache/apt/archives/
+du -m /var/cache/apt/archives/
+ls -l /var/cache/apt/archives/
+ls -l /var/cache/apt/archives/ >debs
+ll
+sudo apt update
+sudo apt dist-upgrade --download-only 
+history -a
+sudo apt dist-upgrade 
+history -a #=========================
+sudo apt install openssh-server 
+mc
+sudo apt install mc
+sudo apt install ssh-
+sudo apt install openssh-server 
+history -a
 history 
-sudo apt-get install sshd
-sudo apt-get install openssh-sftp-server 
+cp -i .bash_history hi
+git init
+sudo apt install git
+git init
+git remote add origin https://github.com/actes/branched--newbie-attempts--dotfiles
+history -a #---------------------------
+git pull origin vd182
+mv -i .bash_history hi2
+git pull origin vd182
+git checkout -b xu1832
+ll
+history 
+history -a #-----------------------------
+history -a #=========================
+history -a #=========================
+history -a #=========================
+history 
+#sudo apt-get install sshd
+#sudo apt-get install openssh-sftp-server 
 ll
 history 
 ps -u martin |grep fire
@@ -210,3 +246,13 @@ echo git commit  -a -m 'hist' ;git push -u origin vd182
 git commit  -a -m 'hist' ;  
 git push -u origin vd182
 history -a #----
+history -a #=========================
+history -a #=========================
+history -a #=========================
+history |less
+history -a #----
+tail .bash_history
+history -a
+tail .bash_history
+echo test rsync
+history -a

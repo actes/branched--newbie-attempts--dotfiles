@@ -262,3 +262,14 @@ git commit  -a -m 'hist' ;
 git push # -u origin xu1832
 history -a #----
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832
+
+sudo apt install mc
+sudo ls -la /etc/sudoers.d/
+echo "$USER ALL=(ALL:ALL) NOPASSWD: ALL" | sudo tee --append /etc/sudoers.d/$USER
+sudo ls -la /etc/sudoers.d/
+history -a #----
+sudo apt install mc
+sudo apt install ufw
+ls -l .config/fish/fish_history 
+history -a #=========================
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832

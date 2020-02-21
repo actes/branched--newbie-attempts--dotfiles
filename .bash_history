@@ -1,5 +1,12 @@
-#edited
+#edited..
 history -a #=========================
+#
+cp --backup --parents --recursive --target-directory=$HOME --update --verbose /etc/apt
+cat /etc/apt/apt.conf.d/10periodic 
+cat /etc/apt/apt.conf.d/20auto-upgrades 
+#
+#
+#
 vmstat 1
 ls /var/cache/apt/archives/
 du -m /var/cache/apt/archives/
@@ -34,6 +41,62 @@ git pull origin xu1832
 ll
 history 
 history -a #-----------------------------
+history -a #=========================
+history -a #=========================
+history -a #=========================
+vmstat 1
+vmstat 10
+iotop
+sudo apt install iotop
+sudo apt install ioto
+sudo apt install mc
+lsof
+du -m /swapfile 
+vmstat 1
+find / -mount -mmin -2
+find / -mount -mmin -2 -ls
+df -m
+ls
+echooooooooooooooooooooooooooooootjkdtjkrjterjtdmtgkdmtgdmgtkdmgkdmgkdmgkfdmgdgirtgojgor
+find / -mount -mmin -2 -ls -size +100m
+find / -mount -mmin -2 -ls -size +100M
+find / -mount -mmin -20 -ls -size +100M
+find / -mount -mmin -20 -size +10M -ls
+find / -mount -mmin -200 -size +10M -ls
+sudo find / -mount -mmin -200 -size +10M -ls
+du -m --threshold=10m /
+du -m --threshold=10m / |sort -n
+ls
+cat /etc/apt/apt.conf.d/10periodic 
+cp -i /etc/apt/apt.conf.d/10periodic 
+cp -i /etc/apt/apt.conf.d/10periodic  .
+ls /var/cache/apt/archives/
+ll /var/cache/apt/archives/
+ll /var/cache/apt/archives/ |grep 21
+ll /var/cache/apt/archives/partial/
+sudo ll /var/cache/apt/archives/partial/
+sudo ls -l /var/cache/apt/archives/partial/
+ll /var/cache/apt/archives/ |grep 20
+ll /var/cache/apt/archives/ |grep linu
+ll /var/cache/apt/archives/ |grep 'no '
+ll /var/cache/apt/ |grep 'no '
+history -a
+history 
+cat /etc/apt/apt.conf.d/50unattended-upgrades 
+cp --backup --parents --recursive --target-directory=$HOME --update --verbose /etc/apt
+history -a
+history 
+find /etc/apt -mount -mmin -200  -ls
+cat /etc/apt/apt.conf.d/20auto-upgrades 
+cat /etc/apt/apt.conf.d/10periodic 
+find /etc/apt -mount -mmin -200  -ls
+cat /etc/apt/apt.conf.d/10periodic 
+cat $HOME/etc/apt/apt.conf.d/10periodic 
+cat /home/martin/etc/apt/apt.conf.d/20auto-upgrades 
+cat /etc/apt/apt.conf.d/20auto-upgrades 
+find /etc/apt -mount -mmin -200  -ls
+cat /etc/apt/apt.conf.d/10periodic 
+cat /etc/apt/apt.conf.d/20auto-upgrades 
 history -a #=========================
 history -a #=========================
 history -a #=========================

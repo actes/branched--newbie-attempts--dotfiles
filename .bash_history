@@ -24,10 +24,15 @@ sudo apt install git
 git init
 git remote add origin https://github.com/actes/branched--newbie-attempts--dotfiles
 history -a #---------------------------
-git pull origin vd182
-mv -i .bash_history hi2
-git pull origin vd182
-git checkout -b xu1832
+#
+###git pull origin vd182
+###2020-02-21
+git pull origin xu1832
+mv -i .bash_history hi3
+git pull origin xu1832
+###git pull origin vd182
+###git checkout -b xu1832
+#
 ll
 history 
 history -a #-----------------------------

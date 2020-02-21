@@ -11,11 +11,9 @@ sudo apt dist-upgrade --download-only
 history -a
 sudo apt dist-upgrade 
 history -a #=========================
+##sudo apt install openssh-server #lock apt
 sudo apt install openssh-server 
-mc
-sudo apt install mc
-sudo apt install ssh-
-sudo apt install openssh-server 
+# NOW I CAN PASTE INTO A TERMINAL
 history -a
 history 
 cp -i .bash_history hi

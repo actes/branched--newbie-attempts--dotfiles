@@ -339,3 +339,17 @@ sudo apt install ufw
 ls -l .config/fish/fish_history 
 history -a #=========================
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832
+git remote add origin https://github.com/actes/branched--newbie-attempts--dotfiles
+mv -i .bash_history hi4
+git pull origin xu1832
+history 
+cat /etc/apt/apt.conf.d/10periodic 
+apt-config dump
+apt-config dump|grep -i per
+sudo apt install mc
+sudo ls -la /etc/sudoers.d/
+echo "$USER ALL=(ALL:ALL) NOPASSWD: ALL" | sudo tee --append /etc/sudoers.d/$USER
+sudo ls -la /etc/sudoers.d/
+ls -l .config/fish/fish_history
+history -a #=========================
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832

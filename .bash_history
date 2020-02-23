@@ -426,3 +426,17 @@ firefox
 mc
 history -a #=========================
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+/bin/cp --archive --no-clobber --verbose --one-file-system --parents  /etc/default/grub .
+mc
+/bin/cp --archive --no-clobber --verbose --one-file-system --parents  /etc/default/grub .
+mc
+cd   /etc/default
+history -a #----
+sudo -i mc
+cd
+/bin/cp --archive --no-clobber --verbose --one-file-system --parents  /etc/default/grub ~
+/bin/cp --archive --backup=numbered --verbose --one-file-system --parents  /etc/default/grub ~
+history -a #=========================
+sudo update-grub
+history -a #=========================
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

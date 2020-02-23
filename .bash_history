@@ -353,3 +353,18 @@ sudo ls -la /etc/sudoers.d/
 ls -l .config/fish/fish_history
 history -a #=========================
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832
+ll
+ls
+ls      
+echo $DISPLAY
+export DISPLAY=:0.0
+firefox https://www.nomachine.com/download/download&id=1
+cd Downloads/
+sudo dpkg -i nomachine_6.9.2_1_i386.deb
+find .config/ -mmin -2
+find .config/ -mmin -20
+find .config/ -mmin -5
+find .config/ -mmin -10
+find .config/ -mmin -20 -ls
+history 
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832

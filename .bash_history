@@ -376,3 +376,5 @@ git branch
 git checkout -b xu1832
 git branch -a -vv
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+git add .bashrc 
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

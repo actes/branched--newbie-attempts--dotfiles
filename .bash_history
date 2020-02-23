@@ -440,3 +440,5 @@ history -a #=========================
 sudo update-grub
 history -a #=========================
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+git add etc/default/grub
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

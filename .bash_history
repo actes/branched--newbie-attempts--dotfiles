@@ -384,3 +384,45 @@ env|grep -i hist
 printenv|grep -i hist
 set|grep -i hist
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+mc
+man ls
+mc
+cd /var/cache/apt/
+cd archives/
+ls -ct
+ls -ct|grep open
+sudo apt install --download-only 
+echo sudo apt install --download-only openssh-
+cd
+mkdir download
+cd download
+cd
+mv download sifjsfjfd
+sudo apt install --download-only openssh-server 
+cd Downloads/
+sudo apt download openssh-server 
+ll
+history -a
+history 
+cd /var/cache/apt/archives/
+ls -ct|grep open
+ls -ct|grep ssh
+ls -ct|grep ssl
+mc
+history 
+cd
+cd Downloads/
+sudo apt download openssh-server openssh-sftp-server ncurses-term ssh-import-id
+ll
+history -a #=========================
+sudo apt install atari800 
+history -a #=========================
+ls
+git clone https://github.com/martin12333/old-dotfiles--ph--14.04
+du -m
+mc
+export DISPLAY=:0.0
+firefox 
+mc
+history -a #=========================
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

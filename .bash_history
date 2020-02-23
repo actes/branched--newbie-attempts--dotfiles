@@ -378,3 +378,9 @@ git branch -a -vv
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
 git add .bashrc 
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+mc
+env
+env|grep -i hist
+printenv|grep -i hist
+set|grep -i hist
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

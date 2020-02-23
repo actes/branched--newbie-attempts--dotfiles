@@ -368,3 +368,11 @@ find .config/ -mmin -10
 find .config/ -mmin -20 -ls
 history 
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832
+git push   origin xu1832
+git status 
+git show
+git push # -u origin xu1832
+git branch 
+git checkout -b xu1832
+git branch -a -vv
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

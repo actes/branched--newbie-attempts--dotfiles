@@ -442,3 +442,177 @@ history -a #=========================
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
 git add etc/default/grub
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+ls
+uname -a
+df -m
+top
+lshw
+lspci
+dmesg
+history -a #----
+history 
+lspci
+iw
+iwconfig 
+ls 
+top
+iotop
+top
+pkill firefox fox
+pkill firefox 
+top
+lspci
+top
+history 
+history -a #----
+top
+host
+hostid 
+hostname
+set|grep xu
+iwconfig 
+iw
+history 
+top
+export DISPLAY=:0.0
+dmesg 
+vmstat 5
+vmstat --help
+vmstat --unit m
+free -m
+top --help
+man top
+sudo apt-get install iotop
+sudo apt-get install sysstat
+vmstat 1
+vmstat --unit m 1
+history -a #----
+/usr/bin/sudo  grub-install  /dev/sda
+dmesg 
+df
+dmesg |grep sd
+swap
+cat /proc/swaps 
+history -a #=========================
+vmstat 1
+shutdown --help
+sudo shutdown -r
+vmstat --unit m 1
+export DISPLAY=:0.0
+firefox --help
+firefox --help|less
+history -a #----
+export DISPLAY=:0.0
+firefox  --safe-mode    --preferences   
+sudo apt-get install lynx
+sudo apt-get install links links2 elinks
+df
+mount
+mount|grep sd
+dmesg |grep sd
+dmesg 
+top
+iostat
+iostat -d 3
+vmstat --unit m 1
+iotop
+sudo iotop
+mount
+dmesg |grep sd
+dmesg 
+iotop
+sudo iotop
+vmstat --unit m 1
+top
+sudo iotop
+top
+sudo iotop
+lynx horoscopes.rambler.ru
+links horoscopes.rambler.ru
+links2 horoscopes.rambler.ru
+set
+set|grep -i dis
+elinks horoscopes.rambler.ru
+firefox horoscopes.rambler.ru
+history -a #----
+pkill firefox 
+vmstat --unit m 1
+links --help|less
+history 
+links --help
+vmstat --unit m 1
+links --help|less
+links2 -g horoscopes.rambler.ru
+history 
+ifconfig
+echo '(horoscopes are required by a member of my family)'
+history -a #=========================
+export DISPLAY=:0.0
+sudo sysctl vm.swappiness=1
+firefox &
+vmstat 1
+pkill firefox 
+history -a #----
+history 
+sudo sysctl vm.swappiness=0
+sudo swapoff -a 
+sudo swapon -a 
+history -a #----
+history 
+firefox horoscopes.rambler.ru &
+vmstat 1
+history -a #----
+date
+vmstat 60 &
+history -a #----
+date
+pkill firefox 
+pkill vmstat
+vmstat 10 &
+sudo swapoff -a 
+sudo shutdown -r
+vmstat 60
+sudo swapoff -a 
+free -m
+vmstat 60 &
+free --h
+free -m -w
+free -m 
+free -m --lohi
+free -m --lohi -w
+free -m --lohi -w --seconds 2
+pkill vmstat
+vmstat --unit m 
+free -m --lohi -w
+free --h
+pkill vmstat
+free -m -w --seconds 2
+history -a #----
+firefox  &
+export DISPLAY=:0.0
+firefox  &
+free -m -w --seconds 10
+pkill firefox
+pkill firefox  
+history -a #----
+vmstat --unit m 10
+dmesg|tail -n 50 
+journalctl -b
+pkill firefox
+history -a #----
+history 
+history -a #----
+free -m -w --seconds 10
+top
+free -m -w --seconds 10
+vmstat --unit m 
+free -m -w --seconds 10
+elinks -g horoscopes.rambler.ru
+elinks --h horoscopes.rambler.ru
+elinks  horoscopes.rambler.ru
+links2 -g horoscopes.rambler.ru
+sudo swapoff -a 
+export DISPLAY=:0.0
+xlinks2 horoscopes.rambler.ru
+git checkout -b xu1832fyz
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832fyz   #=================================

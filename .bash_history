@@ -616,3 +616,11 @@ export DISPLAY=:0.0
 xlinks2 horoscopes.rambler.ru
 git checkout -b xu1832fyz
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832fyz   #=================================
+mc
+sudo apt install smartmontools 
+history -a #----
+tail -n 50 /var/log/syslog
+tail -n 70 /var/log/syslog
+history -a #----
+sudo apt install gnome-disk-utility 
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832fyz   #=================================

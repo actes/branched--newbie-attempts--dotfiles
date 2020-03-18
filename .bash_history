@@ -210,3 +210,142 @@ echo git commit  -a -m 'hist' ;git push -u origin vd182
 git commit  -a -m 'hist' ;  
 git push -u origin vd182
 history -a #----
+git commit  -a -m 'hist' ;git push -u origin vd182
+/usr/bin/sudo -i  /usr/bin/apt-get install    --download-only   atari800  mess mame-extra mame mame-tools   gnome-video-arcade  
+/usr/bin/sudo -i  /usr/bin/apt-get install    --download-only   atari800   mame-extra mame mame-tools   gnome-video-arcade  
+/usr/bin/sudo -i  /usr/bin/apt-get install     atari800   mame-extra mame mame-tools   gnome-video-arcade  
+cd atari-xf25/
+ll
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+atari800 --h
+atari800 --help
+atari800  -mouse joy  Mario_Bros._1983_Atari_US_t_5200.atr 
+atari800 --help|grep -i key
+atari800 --help|grep -i joy
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+atari800 --help|grep -i mou
+atari800  -mouse off  Mario_Bros._1983_Atari_US_t_5200.atr 
+mame --help
+mame -h
+mame 
+mame -showusage
+mame -h
+mame -listmedia
+mame -listmedia|grep -i atar
+mame -h
+mc
+cd atari-xf25/
+history
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+history -a #----
+cd atari-xf25/
+mame -verifyroms a800xlp
+mame -verifyroms a800xl
+mame -verifyroms 
+mame a2600
+ll
+la
+la history/
+ll ..
+df -m
+df -m >../df-m
+mame a800
+la
+la ..
+cat ../.atari800.cfg 
+mc
+history
+history -a
+mame a2600
+mame a800
+mame a800xl
+mame a800xlp
+mame a5200
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+history -a #----
+cp -i ../.atari800.cfg ../2.atari800.cfg 
+history -a #----
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+atari800 ATARIBAS.ROM 
+atari800 -basic
+pwd
+history -a
+ll
+pwd
+history -a #----
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+ll
+ll ..
+ls -latr ..
+ls -latr 
+less ../.atari800.cfg 
+atari800 Mario_Bros._1983_Atari_US_t_5200.atr 
+ls -latr ..
+cd ..
+cd atari-xf25/
+diff ../.atari800.cfg ../2.atari800.cfg 
+cp -i ../.atari800.cfg ../3.atari800.cfg 
+history -a #----
+mc
+/usr/bin/sudo -i  /usr/bin/apt-get install   ipython python-scipy python-pygame
+sudo apt-get update
+/usr/bin/sudo -i  /usr/bin/apt-get install   ipython python-scipy python-pygame
+export DISPLAY=:0
+history -a #----
+cd grdr20/PyMartinCA/beta/
+history -a #----
+ipython 
+ipython --pylab
+/usr/bin/sudo -i  /usr/bin/apt-get install   ipython python-scipy python-pygame python-matplotlib
+ipython --pylab
+echo $DISPLAY 
+cd grdr20/PyMartinCA/beta/
+ipython 
+cd ..
+cd PyMartinCA/
+ipython 
+mc
+ipython 
+ll
+ipython 
+cd ..
+cd beta/
+cd ..
+mc
+cd experim2015/
+ipython 
+cd ..
+cd beta/
+ipython 
+mc
+cd ..
+cd experim2015/
+ipython 
+history -a #----
+ipython 
+history -a #----
+mc
+/usr/bin/sudo -i  /usr/bin/apt-get install   gimp
+history -a #----
+mc
+export DISPLAY=:0
+~/Downloads/golly-3.3-gtk-64bit/golly &
+history -a #----
+/usr/bin/sudo -i  /usr/bin/apt-get install   libpng-dev 
+~/Downloads/golly-3.3-gtk-64bit/golly &
+history -a #----
+ipython 
+history |grep grep
+export DISPLAY=:0
+cd experim2015/
+ll
+cd grdr20/PyMartinCA/experim2015/
+ipython 
+history -a #----
+ipython 
+cd ..
+cd beta/
+history -a #----
+ipython 
+cd ex5/
+ipython 

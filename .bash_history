@@ -442,3 +442,68 @@ history -a #=========================
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
 git add etc/default/grub
 history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================
+ls
+vmstat --unit m 1
+free -m
+vmstat 1
+echo '(horoscopes are required by a member of my family)'
+history -a #=========================
+sysctl vm.swappiness
+export DISPLAY=:0.0
+firefox horoscopes.rambler.ru
+
+sudo sysctl vm.swappiness 10
+sudo sysctl vm.swappiness=10
+sysctl vm.swappiness
+sudo swapon -a 
+history -a #----
+history 
+firefox horoscopes.rambler.ru
+sudo swapoff -a 
+sudo sysctl vm.swappiness=0
+sysctl vm.swappiness
+history -a #----
+history 
+firefox 
+sudo swapon -a 
+firefox &
+vmstat 1
+sudo apt-get install lynx
+sudo apt-get install links links2 elinks
+ifconfig
+echo exo-open --launch WebBrowser %u
+history 
+mc
+ps -ef |grep bash
+kill 9794
+kill 11144
+ps -ef |grep bash
+tail .bash_history 
+ps -ef |grep bash
+history -a #----
+history 
+export DISPLAY=:0.0
+xlinks2 rambler.ru
+mc
+man links2
+xlinks2 .links2/bookmarks.html &
+ll .links2/
+la .links2/
+man links
+mc
+xlinks2 vdr2/bookmarks_ljuba-5_8_18.html &
+links2 -h
+xlinks2 vdr2/bookmarks_ljuba-5_8_18.html &
+mc
+history 
+mc
+cd .links2/
+mv -iv bookmarks_ljuba-5_8_18.html bookmarks.html 
+mc
+export DISPLAY=:0.0
+xlinks2  &
+mc
+top
+vmstat --unit m 1
+mc
+history -a ; git commit  -a -m 'hist' ; git push  -u origin xu1832   #=================================

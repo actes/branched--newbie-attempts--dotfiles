@@ -1029,3 +1029,13 @@ cd grdr20/PyMartinCA/beta/205density-plot/
 cd ..
 cd JUPYTER
 history -a ; history >a,06.bash_history.sh
+cd
+git commit  -a -m 'hist' ;git push -u origin vd182
+history -a ; history >a,06.bash_history.sh
+mc
+vmstat 2
+time vmstat 2
+python3   
+ipython3   
+set|grep -i hist
+history -a ; history >a,06.bash_history.sh

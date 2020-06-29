@@ -1039,3 +1039,9 @@ python3
 ipython3   
 set|grep -i hist
 history -a ; history >a,06.bash_history.sh
+history
+mc
+git add --verbose --dry-run 
+git add --verbose .bashrc
+git commit  -a -m 'hist' ;  
+mc
